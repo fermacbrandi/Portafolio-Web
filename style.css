@@ -1,0 +1,139 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: regular;
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.navbar{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+.img-logo{
+  width: 40%;
+}
+
+.img-pampas{
+  width: 100%;
+}
+
+.img-welcome{
+  width: 25%;
+}
+
+.intro{
+  text-align: center;
+  color: #f5ece1;
+}
+
+.button {
+  border: none;
+  border-radius: 12px;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1{
+  background-color: #f5ece1;
+  color: #db7352;
+}
+
+.button1:hover {
+  background-color: #ebab55;
+  color: #f5ece1;
+}
+
+.button2{
+  background-color: #db7352;
+  color: #f5ece1;
+}
+
+.button2:hover {
+  background-color: #f2c2b4;
+  color: #db7352;
+}
+
+.img-fer{
+      width: 70%;
+}
+
+
+.fluid-container{
+  background-color: #f5ece1;
+  padding: 80px;
+}
+
+.servicios{
+  background-color: #db7352;
+  padding: 80px;
+}
+
+.title{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.img-branding{
+  width: 60%;
+}
+
+.img-sm{
+  width: 60%;
+}
+
+.img-foto{
+  width: 60%;
+}
+
+.column{
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.trabajos{
+  background-color: #f5ece1;
+  padding: 80px;
+}
+
+.img-limpis{
+  width: 60%;
+}
+
+.img-pandora{
+  width: 60%;
+}
+
+.img-package{
+  width: 60%;
+}
+
+.contactame{
+  background-color: #ebab55;
+  padding: 80px;
+}
